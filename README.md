@@ -1,3 +1,5 @@
+<h1 align="center">ShopNow Ecommerce</h1>
+
 ShopNow Ecommerce is a modern, responsive, and user-friendly e-commerce web application built using React.js. This project provides an interactive shopping experience with dynamic product listings, a user-friendly interface, and a seamless UI/UX.
 
 🚀 Features
