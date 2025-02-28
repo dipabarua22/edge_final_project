@@ -22,22 +22,23 @@ Here is the screenshot of this website-
 Follow these steps to set up the project locally.
 
 1. Clone the repository:
-   bash
-   git clone <Filename>
+   ```
+   git clone https://github.com/dipabarua22/edge_final_project.git
+   ```
 
 2. Navigate to the project directory:
-   bash
+  ```
    cd edge_final_project
+```
    
 3. Install the dependencies:
-   bash
+   ```
    npm install
-   
+   ```
 4. Run the development server:
-   bash
+  ```
    npm start
    ```
- The application will run at http://localhost:3000.
 
 ## 💻 Usage
 Once you have the project running, you can:
