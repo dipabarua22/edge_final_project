@@ -1,8 +1,10 @@
 import React from "react";
 import Img1 from "../../assets/women/women.png";
-import Img2 from "../../assets/women/women2.jpg";
 import Img3 from "../../assets/women/women3.jpg";
-import Img4 from "../../assets/women/women4.jpg";
+import Img5 from "../../assets/women/women5.png";
+import Img6 from "../../assets/women/woman6.jpg";
+
+
 import { FaStar } from "react-icons/fa6";
 
 const ProductsData = [
@@ -16,7 +18,7 @@ const ProductsData = [
   },
   {
     id: 2,
-    img: Img2,
+    img: Img3,
     title: "Women western",
     rating: 4.5,
     color: "Red",
@@ -24,7 +26,7 @@ const ProductsData = [
   },
   {
     id: 3,
-    img: Img3,
+    img: Img6,
     title: "Goggles",
     rating: 4.7,
     color: "brown",
@@ -32,7 +34,7 @@ const ProductsData = [
   },
   {
     id: 4,
-    img: Img4,
+    img: Img5,
     title: "Printed T-Shirt",
     rating: 4.4,
     color: "Yellow",
@@ -40,7 +42,7 @@ const ProductsData = [
   },
   {
     id: 5,
-    img: Img2,
+    img: Img1,
     title: "Fashin T-Shirt",
     rating: 4.5,
     color: "Pink",
@@ -61,8 +63,6 @@ const Products = () => {
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
           </p>
         </div>
         {/* Body section */}
