@@ -6,7 +6,8 @@ ShopNow Ecommerce is a modern, responsive, and user-friendly e-commerce web appl
 - **✅ Dark & Light Mode** – Toggle between themes for a better user experience.
 - **✅ Navbar & Footer** – Responsive navigation with a well-designed footer.
 - **✅ Interactive UI** – Built using React components for smooth navigation.
-- **🛠️ Tech Stack**
+
+🛠️ Tech Stack
 - **Frontend:** React.js, JSX, CSS
 - **State Management:** React Hooks
 - **Assets:** Images, Icons, and Banners
