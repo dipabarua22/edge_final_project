@@ -22,7 +22,7 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/edge_final_project.git
+   git clone <Filename>
 
 2. Navigate to the project directory:
    bash
@@ -39,7 +39,6 @@ Follow these steps to set up the project locally.
  The application will run at http://localhost:3000.
 
 ## 💻 Usage
-
 Once you have the project running, you can:
 
 - Browse through the product listings.
