@@ -1,4 +1,4 @@
-ShopMe Ecommerce is a modern, responsive, and user-friendly e-commerce web application built using React.js. This project provides an interactive shopping experience with dynamic product listings, a user-friendly interface, and a seamless UI/UX.
+ShopNow Ecommerce is a modern, responsive, and user-friendly e-commerce web application built using React.js. This project provides an interactive shopping experience with dynamic product listings, a user-friendly interface, and a seamless UI/UX.
 
 🚀 Features
 ✅ Product Listings – Displays various products with images and details.
@@ -10,6 +10,7 @@ ShopMe Ecommerce is a modern, responsive, and user-friendly e-commerce web appli
 Frontend: React.js, JSX, CSS
 State Management: React Hooks
 Assets: Images, Icons, and Banners
+Here is the screenshot of this website-
 ![a1](https://github.com/user-attachments/assets/ae7491e3-8abd-40dd-a1c6-7f58a245ea8a)
 ![a2](https://github.com/user-attachments/assets/20aec099-2ada-48c7-a089-0fb5ff6a11b4)
 ![a3](https://github.com/user-attachments/assets/bbbb4701-28ae-4569-a3bf-44ad263e214b)
