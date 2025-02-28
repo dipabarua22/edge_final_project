@@ -17,8 +17,39 @@ Here is the screenshot of this website-
 ![a4](https://github.com/user-attachments/assets/6a4292d6-ab56-4ed9-b36a-9b83598b4c4b)
 ![a5](https://github.com/user-attachments/assets/8a43d9c9-be8b-430f-b13f-38cc52539d46)
 
-- **Additional Information-**
-In this project uses specific files like .gitignore, package-lock.json, or has dependencies for managing React or JavaScript packages, you can add relevant sections in the README, such as:
+## 🔧 Installation
+Follow these steps to set up the project locally.
 
-.gitignore: Lists files and directories to ignore in version control (e.g., node_modules/).
-package-lock.json: Automatically created and managed by npm to ensure consistent dependency versions.
+1. Clone the repository:
+   bash
+   git clone https://github.com/yourusername/edge_final_project.git
+
+2. Navigate to the project directory:
+   bash
+   cd edge_final_project
+   
+3. Install the dependencies:
+   bash
+   npm install
+   
+4. Run the development server:
+   bash
+   npm start
+   ```
+ The application will run at http://localhost:3000.
+
+## 💻 Usage
+
+Once you have the project running, you can:
+
+- Browse through the product listings.
+- Use the category filter to sort products.
+- Toggle between dark and light mode.
+- Navigate easily through the navbar and footer.
+
+## ✨ Additional Information
+
+This project includes essential configuration files for managing the project with version control and dependencies:
+
+- *.gitignore*: Specifies the files and directories to ignore in version control (e.g., node_modules/).
+- *package-lock.json*: Automatically created and managed by npm to ensure consistent dependency versions.
